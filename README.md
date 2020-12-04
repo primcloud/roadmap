@@ -46,7 +46,7 @@ The following is a list of our current product areas:
 
 - **website:** The Primcloud website
 - **dashboard:** The Primcloud dashboard
-- **learing:** Documentation and education
+- **learning:** Documentation and education
 - **api:** Ecosystem and API features
 - **infrastructure:** Infrastructure features
 - **builder:** Builder & buildpack features

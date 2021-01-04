@@ -5,19 +5,6 @@ on:
     types: [opened, transferred]
 
 jobs:
-  lock-issue:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Lock new issues when opened
-        uses: actions/github-script@v3
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.issues.lock({
-              issue_number: ${{ github.event.issue.number }},
-              owner: context.repo.owner,
-              repo: context.repo.repo
-            })
   close-unauthorized-issues:
     runs-on: ubuntu-latest
     steps:

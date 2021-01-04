@@ -2,7 +2,7 @@
 
 > Current Status: Private Beta
 
-In this repository, you can find the [official Primcloud public product roadmap](https://github.com/primcloud/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of Primcloud including the cli, dashboard, the API, and the website.
+In this repository, you can find the [official Primcloud public product roadmap](https://github.com/orgs/primcloud/projects/3). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of Primcloud including the cli, dashboard, the API, and the website.
 
 Issues will be created for features and work items we are tracking on our roadmap. Issues are read-only and locked on creation. Our roadmap is heavily influenced by discussions with our community that take place in our dashboard. 
 

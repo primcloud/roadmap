@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Have a feature suggestion?
+    url: https://github.com/primcloud/roadmap/discussions/categories/ideas
+    about: Have an idea for a feature? Start a discussion in ideas!
+  - name: Have a question?
+    url: https://github.com/primcloud/roadmap/discussions/categories/q-a
+    about: Check out Q&A discussions for an existing answer, or create a question.
+  - name: Deploy something cool?
+    url: https://github.com/primcloud/roadmap/discussions/categories/show-and-tell
+    about: Show an tell what you've deployed on Primcloud.

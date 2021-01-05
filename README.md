@@ -4,7 +4,7 @@
 
 In this repository, you can find the [official Primcloud public product roadmap](https://github.com/orgs/primcloud/projects/3). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of Primcloud including the cli, dashboard, the API, and the website.
 
-Issues will be created for features and work items we are tracking on our roadmap. Issues are not locked and feedback on them are acceptable and highly recommended.
+Issues will be created for features and work items we are tracking on our roadmap. Issues are not locked and feedback on them are acceptable and highly recommended. You are also encouraged to use our roadmap [discussions](https://github.com/primcloud/roadmap/discussions) to contribute [ideas](https://github.com/primcloud/roadmap/discussions/categories/ideas) for the roadmap, [ask questions](https://github.com/primcloud/roadmap/discussions/categories/q-a) to the community, or [show and tell](https://github.com/primcloud/roadmap/discussions/categories/show-and-tell) what you've deployed to Primcloud.
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 

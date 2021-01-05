@@ -30,14 +30,14 @@ Every product or feature goes through a set of release phases, from early testin
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
 
+* **exploring**:\
+  Feature under consideration. We are considering building this feature, and gathering feedback on it.
+
 * **in design**:\
   Feature in discovery phase. We have decided to build this feature, but are still figuring out how.
 
 * **in development**:\
   Feature in development phase. We have figured out how to make the feature and are in the process of developing it.
-
-* **exploring**:\
-  Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
 ## Roadmap stages
 
